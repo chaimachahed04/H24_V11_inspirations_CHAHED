@@ -20,7 +20,7 @@ Interroge l'identité humaine
 
 Type d:installation: immersive
 
-Mise en espace: 
+Mise en espace: L'éxposition est placer dans une salle couverte de tapis au sol avec des escalier pour que les gens s'assoit et les ecrans sont placer de sorte que tout le monde peux voir l'immersion. 
 
 Composantes et technique: les écrans, les speakers
 
