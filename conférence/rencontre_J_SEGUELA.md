@@ -24,6 +24,6 @@ Un aspect particulièrement captivant de la conférence était la présentation 
 En conclusion, la conférence de Jade Séguela a été une exploration enrichissante de la logistique complexe impliquée dans la gestion et la mise en exposition des œuvres d'art numérique, en mettant en lumière le travail inspirant de Rafael Lozano-Hemmer. Son expertise et son engagement ont permis de mieux comprendre les défis et les opportunités offerts par l'art numérique dans le contexte des institutions artistiques contemporaines.
 
 
-![image](https://github.com/chaimachahed04/H24_V11_inspirations_CHAHED/assets/143821620/8aed4f83-3ca3-41b8-8be7-095ca224cf23)
+![photo](transation_stream_abu_dhabi_2023_photo_antimodular_cr_006.jpg)
 
 (https://www.lozano-hemmer.com/translation_stream.php)
