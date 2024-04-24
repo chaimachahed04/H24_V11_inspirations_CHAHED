@@ -25,5 +25,5 @@ En conclusion, la conférence de Jade Séguela a été une exploration enrichiss
 
 
 ![image](https://github.com/chaimachahed04/H24_V11_inspirations_CHAHED/assets/143821620/8aed4f83-3ca3-41b8-8be7-095ca224cf23)
-[
-](https://www.lozano-hemmer.com/translation_stream.php)
+
+(https://www.lozano-hemmer.com/translation_stream.php)
