@@ -25,6 +25,6 @@ En conclusion, la conférence de Jade Séguela a été une exploration enrichiss
 
 
 
-[photo](transation_stream_abu_dhabi_2023_cr_006.jpg)
+[photo](https://www.lozano-hemmer.com/image_sets/translation_stream/abu_dhabi_2023/transation_stream_abu_dhabi_2023_cr_006.jpg) 
 
 
