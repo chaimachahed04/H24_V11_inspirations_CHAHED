@@ -1,6 +1,6 @@
 # Projet 1: Rhizomatique - l'humain et le temps
 
-![photo](Capture d’écran, le 2024-04-30 à 11.57.36) 
+![photo](Capture d’écran,le 2024-04-30 à 11.57.36.png) 
  
  **Créateurs**: Jolyanne Desjardins, Maïka Désy, Laurie Houde & Félix Testa Radovanovic <br>
  
