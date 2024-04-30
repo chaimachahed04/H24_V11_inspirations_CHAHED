@@ -17,6 +17,11 @@ Au fur et à mesure de ses explications détaillées, nous avons pu saisir tout 
 Par la suite, nous avons eu l'occasion d'explorer les différentes installations du Centre des Sciences, et à notre grande surprise, nous nous sommes retrouvés entourés de plusieurs enfants. Cette rencontre inattendue a ajouté une dimension ludique et dynamique à notre expérience, la rendant à la fois amusante et pleine de vie.
 Naviguer à travers les expositions en compagnie des enfants a apporté une énergie contagieuse à notre exploration. Leurs rires et leurs exclamations de surprise ont rempli l'atmosphère de joie et d'enthousiasme, créant une ambiance vivante et animée. Bien que cela ait pu sembler chaotique à certains moments, cette dynamique imprévue a ajouté une touche d'imprévisibilité et de spontanéité à notre visite.
 
+## Le souffle ballon
+
+Après avoir exploré les différentes installations du Centre des Sciences, il nous a été proposé de choisir un dispositif multimédia à explorer individuellement. Dans mon cas, j'ai opté pour un dispositif intrigant : une sorte de canon qui projette de l'air, à l'extrémité duquel est attaché un ballon. L'objectif était de diriger habilement ce ballon à travers deux cerceaux disposés à une certaine distance l'un de l'autre.
+
+![photo](IMG_0661.jpeg)
 
 
 
