@@ -27,6 +27,9 @@ Cet exercice ludique m'a immédiatement captivé, combinant habileté et précis
 
 Ce dispositif interactif m'a offert une expérience immersive et divertissante, me permettant d'explorer les principes de la physique tout en m'amusant. C'était une façon innovante et engageante de découvrir les concepts scientifiques en action, et j'ai apprécié chaque instant passé à relever ce défi. 
 
+## Fin de journée:
+
+En résumé, notre journée au Centre des Sciences de Montréal a été fantastique. Nous avons exploré des expositions interactives et participé à une démonstration passionnante. Rencontrer les enfants a ajouté une touche de joie et d'excitation à notre expérience. En choisissant chacun un dispositif multimédia à explorer, nous avons appris tout en nous amusant. Dans l'ensemble, cette sortie a été une expérience enrichissante qui a renforcé notre fascination pour la science et la technologie et nous a aussi offert des souvenirs inoubliables.
 
 
 
