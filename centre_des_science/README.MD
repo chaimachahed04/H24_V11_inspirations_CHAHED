@@ -31,6 +31,7 @@ Ce dispositif interactif m'a offert une expérience immersive et divertissante, 
 
 En résumé, notre journée au Centre des Sciences de Montréal a été fantastique. Nous avons exploré des expositions interactives et participé à une démonstration passionnante. Rencontrer les enfants a ajouté une touche de joie et d'excitation à notre expérience. En choisissant chacun un dispositif multimédia à explorer, nous avons appris tout en nous amusant. Dans l'ensemble, cette sortie a été une expérience enrichissante qui a renforcé notre fascination pour la science et la technologie et nous a aussi offert des souvenirs inoubliables.
 
+![photo](expositions-permanentes-centre-sciences-permanent-exhibitions_4.png)
 
 
 
