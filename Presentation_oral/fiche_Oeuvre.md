@@ -27,4 +27,10 @@ Lors de ma visite, j'ai été profondément touchée par la puissance émotionne
 
 ![photo](mccord_exposition_voix-autochtones-aujourdhui_installation_21_900x480.jpg)
 
+## Appréciation Critique et Justifications :
+
+Cette exposition illustre de manière frappante l'importance de donner la parole aux communautés autochtones et de reconnaître leur contribution à la richesse culturelle du Canada. Parmi ses points forts, on peut citer la diversité des perspectives présentées, la qualité remarquable de la présentation des œuvres, l'engagement manifeste du musée à offrir une telle exposition, ainsi que l'aspect visuel et l'ambiance captivante de la salle. Participer à cette expérience m'a profondément enrichi et m'a permis d'approfondir ma compréhension de la communauté autochtone et de son histoire. Je n'ai relevé aucun aspect négatif, ayant véritablement apprécié chaque aspect de cette expérience.
+
+![photo](IMG_0755.jpeg)
+
 
