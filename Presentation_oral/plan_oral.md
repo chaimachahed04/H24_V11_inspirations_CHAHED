@@ -2,7 +2,7 @@
 
 ## Introduction :
 
-Objectif de la communication: Présenter l'exposition "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience" du musée McCord et partager mon expérience.<br>
+Objectif de mon oral : Présenter l'exposition "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience" du musée McCord et partager mon expérience.<br>
 
 ## Points abordés : <br> 
 - Informations sur l'exposition et le musée McCord.<br>
@@ -17,13 +17,13 @@ Objectif de la communication: Présenter l'exposition "Voix Autochtones d'Aujour
 - Titre de l'exposition : Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience <br>
 - Lieu : Musée McCord, Montréal, Canada <br>
 - Dates de l'exposition : [28 février 2024] <br>
-- Type d'exposition : Exposition temporaire <br>
-- Contexte : [Insérer des informations sur le contexte de l'exposition] <br>
+- Type d'exposition : Exposition permanente  <br>
+- Contexte : [émoignage des savoirs encore trop méconnus des peuples autochtones au Québec et au Canada, des blessures profondes qu’ils portent et de leur incroyable résilience.] <br>
 
 
 ## Présentation Détaillée des Œuvres et Dispositifs Multimédias :
 
-- Description : Présentation des différentes sections de l'exposition, des œuvres d'art, des artefacts et des dispositifs multimédias. <br>
+- Description : Présentation des différentes sections de l'exposition, des œuvres d'art et des dispositifs multimédias. <br>
 - Thématiques abordées : Savoir autochtone, héritage culturel, traumatisme historique, résilience communautaire. <br>
 - Exemples d'œuvres : [Insérer des exemples d'œuvres et de dispositifs multimédias] <br>
 
@@ -32,13 +32,12 @@ Objectif de la communication: Présenter l'exposition "Voix Autochtones d'Aujour
 
 - Description : Description de ma visite, des impressions ressenties et des interactions avec les œuvres. <br>
 - Réactions émotionnelles : Impact émotionnel des œuvres et réflexions personnelles sur les thèmes abordés.<br>
-- Moment marquant : [Décrire un moment ou une œuvre qui a particulièrement marqué votre visite] <br>
+- Moment marquant : [Décrire un moment ou une œuvre qui a particulièrement marqué ma visite] <br>
 
 
 ## Appréciation Critique et Justifications :
 
 - Points Positifs : Valorisation de la diversité des voix autochtones, qualité de la présentation des œuvres, importance des thématiques abordées. <br>
-- Points à Améliorer : Éventuelles lacunes dans la représentation des perspectives autochtones, aspects de l'exposition perfectibles. <br>
 - Liens avec d'Autres Expériences Artistiques : Connexions avec d'autres expositions ou événements artistiques découverts. <br>
 
 
