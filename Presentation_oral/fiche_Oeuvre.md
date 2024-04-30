@@ -1,14 +1,6 @@
 # Présentation Orale : Exposition (Wampum numérique,fin) "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience"
 
-
-
-
-
-
-
-
-
-
+![photo](mccord_expositions_voix-autochtones_900x480_fr.jpg)
 
 ## Introduction : 
 
