@@ -23,6 +23,10 @@ Après avoir exploré les différentes installations du Centre des Sciences, il 
 
 ![photo](IMG_0661.jpeg)
 
+Cet exercice ludique m'a immédiatement captivé, combinant habileté et précision avec une dose d'amusement. Manipulant le canon avec attention, j'ai tenté de maîtriser le mouvement du ballon dans l'air, cherchant à le guider habilement à travers les cerceaux. Chaque tentative était une nouvelle opportunité d'affiner ma technique et de relever le défi avec encore plus de détermination.
+
+Ce dispositif interactif m'a offert une expérience immersive et divertissante, me permettant d'explorer les principes de la physique tout en m'amusant. C'était une façon innovante et engageante de découvrir les concepts scientifiques en action, et j'ai apprécié chaque instant passé à relever ce défi. 
+
 
 
 
