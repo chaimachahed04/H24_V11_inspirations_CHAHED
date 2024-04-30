@@ -6,7 +6,7 @@
 
 Bonjour à tous,
 
-Aujourd'hui, je vais partager avec vous mon expérience de l'exposition "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience" présentée au Musée McCord. Cette présentation vise à explorer les thèmes fascinants abordés dans cette exposition et à partager les impressions que j'ai ressenties lors de ma visite.
+Aujourd'hui, je vais partager avec vous mon expérience de l'exposition "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience" présentée au Musée McCord à Montréal. Cette présentation vise à partager avec vous les éléments marquants de cette exposition, ainsi que mes réflexions personnelles sur les thèmes abordés et de vous partager les dispositif multimédia qui ont rendu cette exposition plus enrichissante. 
 
 ## Informations sur l'Exposition et le Musée McCord : 
 L'exposition "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience" est une exposition permanente présentée au Musée McCord à Montréal. Elle met en lumière la diversité et la richesse des cultures autochtones tout en explorant les défis et les triomphes auxquels elles ont fait face.
@@ -29,8 +29,15 @@ Lors de ma visite, j'ai été profondément touchée par la puissance émotionne
 
 ## Appréciation Critique et Justifications :
 
-Cette exposition illustre de manière frappante l'importance de donner la parole aux communautés autochtones et de reconnaître leur contribution à la richesse culturelle du Canada. Parmi ses points forts, on peut citer la diversité des perspectives présentées, la qualité remarquable de la présentation des œuvres, l'engagement manifeste du musée à offrir une telle exposition, ainsi que l'aspect visuel et l'ambiance captivante de la salle. Participer à cette expérience m'a profondément enrichi et m'a permis d'approfondir ma compréhension de la communauté autochtone et de son histoire. Je n'ai relevé aucun aspect négatif, ayant véritablement apprécié chaque aspect de cette expérience.
+Cette exposition illustre de manière frappante l'importance de donner la parole aux communautés autochtones et de reconnaître leur contribution à la richesse culturelle du Canada. Parmi ses points forts, on peut citer la diversité des perspectives présentées, la qualité remarquable de la présentation des œuvres, l'engagement du musée à offrir une telle exposition, ainsi que l'aspect visuel et l'ambiance captivante de la salle. Participer à cette expérience m'a profondément enrichi et m'a permis d'approfondir ma compréhension de la communauté autochtone et de son histoire. Je n'ai relevé aucun aspect négatif, ayant véritablement apprécié chaque aspect de cette expérience.
 
 ![photo](IMG_0755.jpeg)
+
+## Conclusion :
+
+En conclusion, ma visite à l'exposition "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience" a été une expérience immersive et inspirante. Cette exposition m'a permis de mieux comprendre les réalités contemporaines des communautés autochtones et m'a incité à réfléchir sur les enjeux de savoir, de traumatisme et de résilience. Je recommande vivement cette exposition à tous ceux qui souhaitent découvrir et apprécier la diversité des voix autochtones d'aujourd'hui.
+
+Merci de votre attention.
+
 
 
