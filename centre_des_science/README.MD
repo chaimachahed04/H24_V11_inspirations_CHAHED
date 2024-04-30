@@ -19,7 +19,7 @@ Naviguer à travers les expositions en compagnie des enfants a apporté une éne
 
 ## Le souffle ballon
 
-Après avoir exploré les différentes installations du Centre des Sciences, il nous a été proposé de choisir un dispositif multimédia à explorer individuellement. Dans mon cas, j'ai opté pour un dispositif intrigant : une sorte de canon qui projette de l'air, à l'extrémité duquel est attaché un ballon. L'objectif était de diriger habilement ce ballon à travers deux cerceaux disposés à une certaine distance l'un de l'autre.
+Après avoir exploré les différentes installations du Centre des Sciences, il nous a été demandé de choisir un dispositif multimédia à explorer individuellement. Dans mon cas, j'ai opté pour un dispositif intrigant : une sorte de canon qui projette de l'air, à l'extrémité duquel est attaché un ballon. L'objectif était de diriger habilement ce ballon à travers deux cerceaux disposés à une certaine distance l'un de l'autre.
 
 ![photo](IMG_0661.jpeg)
 
