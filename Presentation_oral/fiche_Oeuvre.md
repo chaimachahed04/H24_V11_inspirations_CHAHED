@@ -18,5 +18,13 @@ L'exposition "Voix Autochtones d'Aujourd'hui : Savoir, Trauma, Résilience" est 
 Cette exposition présente une variété d'œuvres d'art, d'artefacts historiques et de dispositifs multimédias. Elle est divisée en deux sections thématiques: l’entrée avec une exposition plus éclairée et la fin avec le wampum numérique dans un cadre plus sombre, explorant le savoir autochtone, l'héritage culturel, le traumatisme historique et la résilience communautaire. Parmi les œuvres remarquables, on trouve des photographies, des sculptures, des vidéos et des installations interactives, toutes témoignant de la vitalité et de la résilience des communautés autochtones.
 
 ![photo](mccord_exposition_voix-autochtones-aujourdhui_installation_13_900x480.jpg)
+
 ![photo](IMG_0737.jpeg)
+
+## Expérience vécue : 
+
+Lors de ma visite, j'ai été profondément touchée par la puissance émotionnelle des œuvres exposées. La représentation authentique des perspectives autochtones m'a permis de mieux comprendre les défis auxquels ces communautés ont été confrontées, tout en célébrant leur résilience et leur force. J’ai particulièrement apprécié l'état impeccable des objets présentés ainsi que les témoignages touchants diffusés. Ils illustrent avec une profondeur émouvante les blessures profondes que ces communautés portent, mais aussi leur incroyable résilience.
+
+![photo](mccord_exposition_voix-autochtones-aujourdhui_installation_21_900x480.jpg)
+
 
