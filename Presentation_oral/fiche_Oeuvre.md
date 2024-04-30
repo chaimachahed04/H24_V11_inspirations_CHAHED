@@ -39,5 +39,6 @@ En conclusion, ma visite à l'exposition "Voix Autochtones d'Aujourd'hui : Savoi
 
 Merci de votre attention.
 
+https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/
 
 
