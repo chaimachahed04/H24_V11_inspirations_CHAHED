@@ -90,9 +90,11 @@ Le plan a été globalement respecté, bien que quelques différences soient à 
 ![photo](couverture3.png)
 
 
-**Créateurs**: 
+**Créateurs**: Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huv Do et Mikael Tourangeau
 
-**Lien avec Crescentia**:<br> 
+**Lien avec Crescentia**:<br>  Comme Crescentia explore le concept d'évolution sous diverses formes, ce projet offre une expérience où les visiteurs peuvent manipuler et transformer leur environnement de différentes manières. Que ce soit en déplaçant des planètes ou en provoquant des phénomènes astronomiques, l'utilisateur peut interagir avec le système solaire de manière organique et créative.
+
+![photo](IMG_0599.jpeg)
 
 **Installation en cours**:<br> 
 
