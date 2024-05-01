@@ -63,7 +63,7 @@ Le schéma initial n'a pas pu être entièrement réalisé en raison des difficu
 **Recenti Anticipé**: <br> Le projet Kigo offre une expérience amusante et immersive, où les joueurs sont transportés à travers les quatre saisons dans des environnements visuellement captivants. La technologie Kinect permet une interaction physique qui ajoute une étendue supplémentaire à l'expérience, offrant aux joueurs une immersion totale dans le monde du jeu. C'est une expérience divertissante qui combine habilement technologie et jeu pour offrir aux visiteurs une aventure mémorable et enrichissante.
 
 
-# Projet 3: Sonalux: Dépasse les limites du réel 
+# Projet 3: Sonalux, Dépasse les limites du réel 
 ![photo](couverture2.png)
 
 
@@ -86,6 +86,19 @@ Le plan a été globalement respecté, bien que quelques différences soient à 
  **Recenti Anticipé**:<br> Sonalux offre une expérience artistique et immersive qui transcende les limites de la réalité. Plongeant les visiteurs dans un monde artistique, cette installation nous a laisser nous plonger dans une création infinie. L'interacteur devient le maître de cet espace sans contraintes, guidé par sa manipulation des instruments disposés sur le podium. Cette expérience unique invite à une exploration sensorielle et créative, où chaque mouvement et chaque interaction contribuent à la transformation constante de l'environnement. Sonalux captive et inspire, offrant un voyage artistique inoubliable au-delà des frontières de la réalité.
 
 
+# Projet 4: Canevas Cosmique, Phénomène astronomique 
+![photo](couverture3.png)
+
+
+**Créateurs**: 
+
+**Lien avec Crescentia**:<br> 
+
+**Installation en cours**:<br> 
+
+**Schéma de l'installation prévue**: 
+  
+**Recenti Anticipé**:<br>
  
 
  
