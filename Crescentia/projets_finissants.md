@@ -43,6 +43,10 @@ L'exposition s'est déroulée dans un studio où l'équipe a créé de façon im
 
 **Schéma de l'installation prévue**:
 
+![phto](plantation.drawio.png)
+Le schéma initial n'a pas pu être entièrement réalisé en raison des difficultés rencontrées par l'équipe tout au long de l'exposition. En effet, certains écrans ne fonctionnaient pas correctement et n'étaient pas totalement opérationnels.
+
+
 
 **Recenti Anticipé**:
 
