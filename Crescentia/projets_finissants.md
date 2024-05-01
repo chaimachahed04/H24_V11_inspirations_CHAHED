@@ -44,11 +44,35 @@ L'exposition s'est déroulée dans un studio où l'équipe a créé de façon im
 **Schéma de l'installation prévue**:
 
 ![phto](plantation.drawio.png)
+
 Le schéma initial n'a pas pu être entièrement réalisé en raison des difficultés rencontrées par l'équipe tout au long de l'exposition. En effet, certains écrans ne fonctionnaient pas correctement et n'étaient pas totalement opérationnels.
 
 
 
 **Recenti Anticipé**:
+
+L’exposition avait du potentiel mais malheureusement avec des éléments qui semblaient mal préparés et mal fonctionner, les problèmes techniques ont gâché l'expérience. On avait l'impression que l'équipe n'avait pas pris le temps de peaufiner les détails
+
+
+# Projet 3: Kigo
+
+![photo](couverture.png)
+
+**Créateurs**: Éric Ouellette, William Rhatier Mailly, Gabriel Clerval, Nicholas St-Martin et Antoine Dion
+
+**Installation en cours**:
+
+**Schéma de l'installation prévue**:
+
+ 
+**Recenti Anticipé**:
+ 
+
+ 
+
+ 
+
+
 
 
 
