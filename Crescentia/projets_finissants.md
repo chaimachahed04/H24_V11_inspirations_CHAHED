@@ -96,9 +96,13 @@ Le plan a été globalement respecté, bien que quelques différences soient à 
 
 ![photo](IMG_0599.jpeg)
 
-**Installation en cours**:<br> 
+**Installation en cours**:<br> L'installation de ce projet est centrée autour d'un dispositif interactif où les visiteurs peuvent manipuler un système solaire miniature. Au cœur de l'installation se trouve des petites planètes  munies d'un fiducial.. Les visiteurs interagissent en déplaçant ces statuette, ce qui déclenche des actions spécifiques dans le système solaire projeté devant eux.
+Par exemple, en déplaçant la statuette vers un trou noir représenté dans le système, les visiteurs peuvent déplacer des planètes et d'autres objets astronomiques, tout en provoquant divers phénomènes astronomiques comme des éruptions solaires ou des explosions. Cette interaction permet aux visiteurs de créer et de détruire des planètes, offrant ainsi une expérience de type "bac à sable" où ils peuvent explorer librement les dynamiques du système solaire.
 
-**Schéma de l'installation prévue**: 
+
+**Schéma de l'installation prévue**:
+
+![photo](plantationFinal.png)
   
 **Recenti Anticipé**:<br>
  
