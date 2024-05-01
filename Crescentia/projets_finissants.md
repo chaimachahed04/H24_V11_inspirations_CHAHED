@@ -15,9 +15,19 @@ Cette exposition fascinante offre une expérience immersive unique, mettant en s
  **Schéma de l'installation prévue**:<br>
 
 Voici le schéma initial utilisé par l’équipe. On remarque qu’ils avaient prévu d’utiliser 3 projecteurs. Cependant, lors de l’exposition, ils ont dû augmenter ce nombre à 6 car trois n'étaient pas suffisants pour leur œuvre. En dehors de cette modification, le reste du plan semble avoir été suivi selon les attentes.
+
 ![photo](rhizomatique_plantation.drawio.png)
 
  
  **Recenti Anticipé**:<br>
+
+"Rhizomatique" est une œuvre immersive et captivante qui explore de manière inventive la relation entre l'humain, le temps et la mémoire. En utilisant une toile interactive et des projections, les créateurs offrent une expérience où les visiteurs peuvent explorer les souvenirs d'une manière nouvelle. L'interaction avec la toile influence la clarté des souvenirs, et l'équipe a su s'adapter en ajoutant plus de projecteurs lors de l'exposition. En résumé, "Rhizomatique" est une expérience enrichissante qui invite à réfléchir sur nos souvenirs et notre perception du temps de façon nostalgique et intéressante. 
+
+# Projet 2: Effet Papillon
+
+![photo](couverture.png.jpeg)
+
+
+
  
 
