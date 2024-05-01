@@ -60,10 +60,26 @@ Le schéma initial n'a pas pu être entièrement réalisé en raison des difficu
 ![photo](plantation_technique.png)
 
  
-**Recenti Anticipé**:
- 
+**Recenti Anticipé**: <br> Le projet Kigo offre une expérience amusante et immersive, où les joueurs sont transportés à travers les quatre saisons dans des environnements visuellement captivants. La technologie Kinect permet une interaction physique qui ajoute une étendue supplémentaire à l'expérience, offrant aux joueurs une immersion totale dans le monde du jeu. C'est une expérience divertissante qui combine habilement technologie et jeu pour offrir aux visiteurs une aventure mémorable et enrichissante.
 
- 
+
+# Projet 3: Sonalux: Dépasse les limites du réel 
+![photo](couverture2.png)
+
+
+**Créateurs** : Antoine Heddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins 
+
+
+**Lien avec Crescentia** :<br> 
+
+
+**Installation en cours**:<br> 
+
+
+**Schéma de l'installation prévue**:
+
+
+ **Recenti Anticipé**:<br> 
 
  
 
