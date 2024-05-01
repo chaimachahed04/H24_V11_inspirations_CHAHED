@@ -17,11 +17,11 @@
 
 **Recenti Anticipé**:<br> "Rhizomatique" est une œuvre immersive et captivante qui explore de manière inventive la relation entre l'humain, le temps et la mémoire. En utilisant une toile interactive et des projections, les créateurs offrent une expérience où les visiteurs peuvent explorer les souvenirs d'une manière nouvelle. L'interaction avec la toile influence la clarté des souvenirs, et l'équipe a su s'adapter en ajoutant plus de projecteurs lors de l'exposition. En résumé, "Rhizomatique" est une expérience enrichissante qui invite à réfléchir sur nos souvenirs et notre perception du temps de façon nostalgique et intéressante. 
 
-# Projet 2: Effet Papillon, Le pommier
+# Projet 2: Effet Papillon - le pommier
 
 ![photo](couverture.png.jpeg)
 
-**Créateurs** : Raphaël Dumont, Alexis bolduc, William Morel, Alexia (ryan) Papanikolaou, Viktor Zhuravlev et Jasmine Lapierre <br>
+**Créateurs** : Raphaël Dumont, Alexis bolduc, William Morel, Alexia (ryan) Papanikolaou, Viktor Zhuravlev & Jasmine Lapierre <br>
 
 
 **Lien avec Crescentia** :<br> Comme Crescentia met en avant le concept d'évolution sous diverses formes, y compris organique et environnementale, ce projet illustre la croissance et l'évolution d'un pommier, de la graine à la pomme. Il reflète ainsi le cycle naturel de la vie et la croissance de cette arbre. 
@@ -42,11 +42,11 @@ Le schéma initial n'a pas pu être entièrement réalisé en raison des difficu
 **Recenti Anticipé**:<br> L’exposition avait du potentiel mais malheureusement avec des éléments qui semblaient mal préparés et mal fonctionner, les problèmes techniques ont gâché l'expérience. On avait l'impression que l'équipe n'avait pas pris le temps de peaufiner les détails
 
 
-# Projet 3: Kigo, Le jeu
+# Projet 3: Kigo - Le jeu
 
 ![photo](couverture.png)
 
-**Créateurs**: Éric Ouellette, William Rhatier Mailly, Gabriel Clerval, Nicholas St-Martin et Antoine Dion
+**Créateurs**: Éric Ouellette, William Rhatier Mailly, Gabriel Clerval, Nicholas St-Martin & Antoine Dion
 
 **Lien avec Crescentia**:<br> Comme Crescentia met en avant le concept d'évolution sous diverses formes, y compris organique, environnementale et psychologique, ce jeu interactif illustre l'évolution du joueur à travers différents niveaux et défis. De plus, le changement esthétique associé aux quatre saisons reflète également la croissance et l'évolution de l'environnement virtuel.
 
@@ -63,11 +63,11 @@ Le schéma initial n'a pas pu être entièrement réalisé en raison des difficu
 **Recenti Anticipé**: <br> Le projet Kigo offre une expérience amusante et immersive, où les joueurs sont transportés à travers les quatre saisons dans des environnements visuellement captivants. La technologie Kinect permet une interaction physique qui ajoute une étendue supplémentaire à l'expérience, offrant aux joueurs une immersion totale dans le monde du jeu. C'est une expérience divertissante qui combine habilement technologie et jeu pour offrir aux visiteurs une aventure mémorable et enrichissante.
 
 
-# Projet 3: Sonalux, Dépasse les limites du réel 
+# Projet 3: Sonalux - Dépasse les limites du réel 
 ![photo](couverture2.png)
 
 
-**Créateurs** : Antoine Heddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins 
+**Créateurs** : Antoine Heddad, Camélie Laprise, Ghita Alaoui & Vincent Desjardins 
 
 
 **Lien avec Crescentia** :<br> Tout comme les œuvres de Crescentia, qui évoluent et se transforment au gré des actions des visiteurs, Sonalux offre une expérience en constante évolution. Les visiteurs deviennent acteurs de leur propre voyage astral collectif, façonnant ainsi l'expérience à travers leur interaction avec les pièces d'instruments sur le podium.
@@ -86,11 +86,11 @@ Le plan a été globalement respecté, bien que quelques différences soient à 
  **Recenti Anticipé**:<br> Sonalux offre une expérience artistique et immersive qui transcende les limites de la réalité. Plongeant les visiteurs dans un monde artistique, cette installation nous a laisser nous plonger dans une création infinie. L'interacteur devient le maître de cet espace sans contraintes, guidé par sa manipulation des instruments disposés sur le podium. Cette expérience unique invite à une exploration sensorielle et créative, où chaque mouvement et chaque interaction contribuent à la transformation constante de l'environnement. Sonalux captive et inspire, offrant un voyage artistique inoubliable au-delà des frontières de la réalité.
 
 
-# Projet 4: Canevas Cosmique, Phénomène astronomique 
+# Projet 4: Canevas Cosmique - Phénomène astronomique 
 ![photo](couverture3.png)
 
 
-**Créateurs**: Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huv Do et Mikael Tourangeau
+**Créateurs**: Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huv Do & Mikael Tourangeau
 
 **Lien avec Crescentia**:<br>  Comme Crescentia explore le concept d'évolution sous diverses formes, ce projet offre une expérience où les visiteurs peuvent manipuler et transformer leur environnement de différentes manières. Que ce soit en déplaçant des planètes ou en provoquant des phénomènes astronomiques, l'utilisateur peut interagir avec le système solaire de manière organique et créative.
 
@@ -104,7 +104,9 @@ Par exemple, en déplaçant la statuette vers un trou noir représenté dans le 
 
 ![photo](plantationFinal.png)
   
-**Recenti Anticipé**:<br>
+**Recenti Anticipé**:<br> La possibilité de créer et de détruire des planètes, ainsi que de provoquer divers événements astronomiques, offre une expérience ludique et engageante. De plus, l'aspect éducatif de l'installation a permis d'apprendre de manière pratique sur le fonctionnement du système solaire et des phénomènes spatiaux.
+
+
  
 
  
