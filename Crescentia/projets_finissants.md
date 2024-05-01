@@ -52,9 +52,12 @@ Le schéma initial n'a pas pu être entièrement réalisé en raison des difficu
 
 ![photo](IMG_0602.jpeg)
 
-**Installation en cours**: 
+**Installation en cours**:<br> Cette exposition est une expérience multimédia interactive qui prend la forme d'un jeu intitulé "Kigo" qui met en scène les saisons. L'objectif sera de parcourir quatre niveaux de difficulté croissante, représentant chacun une saison différente. Les décors du jeu reflètent les caractéristiques distinctives de chaque saison, offrant ainsi une immersion totale dans l'environnement virtuel. Chaque niveau présentera des défis spécifiques en fonction de la saison correspondante, allant de facile à très difficile. L'interaction avec le jeu sera rendue possible grâce à la technologie Kinect, qui capturera les mouvements du joueurs. Cela permettra à l'avatar de se déplacer latéralement en fonction de ses mouvements, ainsi que de s'accroupir pour esquiver les obstacles qui se présentent à lui. Cette approche interactive offrira une expérience de jeu dynamique et engageante, où le joueur devra utiliser ses compétences physiques pour progresser à travers les niveaux.
 
-**Schéma de l'installation prévue**:
+
+**Schéma de l'installation prévue**:<br> Le plan a été respecté car l’installation ressemble beaucoup au schéma initial. Cependant, j'ai remarqué que l'espace réservé au joueur était plus restreint que celui indiqué sur le schéma.
+
+![photo](plantation_technique.png)
 
  
 **Recenti Anticipé**:
