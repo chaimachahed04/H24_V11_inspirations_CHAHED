@@ -77,10 +77,16 @@ Le schéma initial n'a pas pu être entièrement réalisé en raison des difficu
 
 
 **Schéma de l'installation prévue**: 
+
 ![photo](schema_plantation.png)
 
+Le plan a été globalement respecté, bien que quelques différences soient à noter. L'installation présentée était similaire au schéma initial, mais les écrans étaient proportionnés différemment et il y avait moins de projecteurs que prévu.
 
- **Recenti Anticipé**:<br> 
+
+ **Recenti Anticipé**:<br> Sonalux offre une expérience artistique et immersive qui transcende les limites de la réalité. Plongeant les visiteurs dans un monde artistique, cette installation nous a laisser nous plonger dans une création infinie. L'interacteur devient le maître de cet espace sans contraintes, guidé par sa manipulation des instruments disposés sur le podium. Cette expérience unique invite à une exploration sensorielle et créative, où chaque mouvement et chaque interaction contribuent à la transformation constante de l'environnement. Sonalux captive et inspire, offrant un voyage artistique inoubliable au-delà des frontières de la réalité.
+
+
+ 
 
  
 
