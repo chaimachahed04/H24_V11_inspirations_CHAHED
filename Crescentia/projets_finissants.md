@@ -70,8 +70,8 @@ Le schéma initial n'a pas pu être entièrement réalisé en raison des difficu
 **Créateurs** : Antoine Heddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins 
 
 
-**Lien avec Crescentia** :<br> 
-
+**Lien avec Crescentia** :<br> Tout comme les œuvres de Crescentia, qui évoluent et se transforment au gré des actions des visiteurs, Sonalux offre une expérience en constante évolution. Les visiteurs deviennent acteurs de leur propre voyage astral collectif, façonnant ainsi l'expérience à travers leur interaction avec les pièces d'instruments sur le podium.
+![photo](IMG_0591.jpeg)
 
 **Installation en cours**:<br> 
 
